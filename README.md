@@ -1,3 +1,6 @@
 # ventus
 All the elements
-This is all about what Vee thinks about the world.
+
+This is all about what Vee thinks of the world.
+
+Another line to test
